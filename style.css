@@ -1,0 +1,127 @@
+    * {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+    }
+    body {
+    background-color: #f3efef;
+    color: #1f2937;
+    padding: 40px 20px;
+    }
+    header{
+    text-align: center;
+    margin-bottom: 30px;
+    }
+    main {
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 600px;
+    margin: 0px auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
+    }
+    h1 {
+    font-size: 50px;
+    color: #ef981f;
+    }
+
+    h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+    color: #ef981f;
+    }
+
+
+    section {
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e5e7eb;
+    }
+
+
+    label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 6px;
+    color: #ef981f;
+    }
+
+    input, select {
+    width: 100%;
+    padding: 10px 12px;
+    font-size: 15px;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    outline: none;
+    }
+    input:focus, select:focus {
+    border-color: #ef981f;
+    }
+    #summary-heading{
+        color:#ef981f;
+    }
+    button#add-expense-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #ef981f;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    }
+
+    button#add-expense-btn:hover {
+    background-color: #ef981f;
+    }
+    section#Expense-Summary {
+    background-color: #eef2ff;
+    padding: 16px;
+    border-radius: 8px;
+    border-left: 4px solid #ef981f;
+    border-bottom: none;
+    }
+    section#Expense-Summary p {
+    font-size: 16px;
+    }
+
+    section#Expense-Summary strong {
+    font-size: 20px;
+    color: #ef981f;
+    }
+    table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    }
+
+    th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #e5e7eb;
+    font-size: 14px;
+    }
+
+    th {
+    background-color: #f9fafb;
+    font-weight: bold;
+    }
+
+
+    td button {
+    background-color: #ef4444;
+    color: #ffffff;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+    }
+
+    td button:hover {
+    background-color: #dc2626;
+    }
