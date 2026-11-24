@@ -1,2 +1,4 @@
 # Web-Develpoment-Lab--Practical
-Student Expense Tracker to track monthly expense
+Name    : Devesh Kumar Singh
+URN     : E26B03F2442
+Section : A
